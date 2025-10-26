@@ -1,0 +1,112 @@
+[
+    {
+        "id": "pref_68fd720a85e5f",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "anual",
+        "valor": 599,
+        "mercadopago_preference_id": "1254617540-1c9e6d54-97de-4343-86ed-577ee87cae50",
+        "init_point": "https:\/\/www.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-1c9e6d54-97de-4343-86ed-577ee87cae50",
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-1c9e6d54-97de-4343-86ed-577ee87cae50",
+        "created_at": "2025-10-26 02:57:46"
+    },
+    {
+        "id": "pref_68fd72326160f",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "anual",
+        "valor": 599,
+        "mercadopago_preference_id": "1254617540-00055f95-2e95-4b24-b685-af0e22c540b1",
+        "init_point": "https:\/\/www.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-00055f95-2e95-4b24-b685-af0e22c540b1",
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-00055f95-2e95-4b24-b685-af0e22c540b1",
+        "created_at": "2025-10-26 02:58:26"
+    },
+    {
+        "id": "pref_68fd727518bd1",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "semestral",
+        "valor": 0.01,
+        "mercadopago_preference_id": "1254617540-83c3150a-3a53-4d72-81c9-08a088a7c872",
+        "init_point": "https:\/\/www.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-83c3150a-3a53-4d72-81c9-08a088a7c872",
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-83c3150a-3a53-4d72-81c9-08a088a7c872",
+        "created_at": "2025-10-26 02:59:33"
+    },
+    {
+        "id": "pref_68fd72d96a7ee",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "semestral",
+        "valor": 0.01,
+        "mercadopago_preference_id": "1254617540-c6637f56-db1e-4293-889d-592bfeb5bb12",
+        "init_point": "https:\/\/www.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-c6637f56-db1e-4293-889d-592bfeb5bb12",
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-c6637f56-db1e-4293-889d-592bfeb5bb12",
+        "created_at": "2025-10-26 02:01:13"
+    },
+    {
+        "id": "pref_68fd7316413ff",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "semestral",
+        "valor": 0.01,
+        "mercadopago_preference_id": "1254617540-16e2d414-ebb2-45b7-8705-456eb2bc5150",
+        "init_point": "https:\/\/www.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-16e2d414-ebb2-45b7-8705-456eb2bc5150",
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-16e2d414-ebb2-45b7-8705-456eb2bc5150",
+        "created_at": "2025-10-26 02:02:14"
+    },
+    {
+        "id": "pref_68fd733b71a45",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "semestral",
+        "valor": 0.01,
+        "mercadopago_preference_id": "1254617540-a768d524-8a8d-44f5-ab5b-d7869e47678f",
+        "init_point": "https:\/\/www.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-a768d524-8a8d-44f5-ab5b-d7869e47678f",
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-a768d524-8a8d-44f5-ab5b-d7869e47678f",
+        "created_at": "2025-10-26 02:02:51"
+    },
+    {
+        "id": "pref_68fd743b0d861",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "semestral",
+        "valor": 0.01,
+        "mercadopago_preference_id": "1254617540-b33fa39b-6c1a-49ac-921a-ed292c74f994",
+        "init_point": "https:\/\/www.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-b33fa39b-6c1a-49ac-921a-ed292c74f994",
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-b33fa39b-6c1a-49ac-921a-ed292c74f994",
+        "created_at": "2025-10-26 02:07:07"
+    },
+    {
+        "id": "pref_68fd90971d66a",
+        "dentista_id": "68fd8441beece",
+        "plano": "anual",
+        "valor": 599,
+        "mercadopago_preference_id": "1254617540-15584488-cd6b-4059-ba56-95f4b7b59f41",
+        "init_point": "https:\/\/www.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-15584488-cd6b-4059-ba56-95f4b7b59f41",
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-15584488-cd6b-4059-ba56-95f4b7b59f41",
+        "created_at": "2025-10-26 04:08:07"
+    },
+    {
+        "id": "pref_68fd90c97a78a",
+        "dentista_id": "68fd8441beece",
+        "plano": "semestral",
+        "valor": 0.01,
+        "mercadopago_preference_id": "1254617540-7d1cb90f-7ccc-4a1f-a875-964bb06cdc55",
+        "init_point": "https:\/\/www.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-7d1cb90f-7ccc-4a1f-a875-964bb06cdc55",
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-7d1cb90f-7ccc-4a1f-a875-964bb06cdc55",
+        "created_at": "2025-10-26 04:08:57"
+    },
+    {
+        "id": "pref_68fd912b4bae6",
+        "dentista_id": "68fd8441beece",
+        "plano": "semestral",
+        "valor": 1,
+        "mercadopago_preference_id": "1254617540-505506b9-b52f-482e-87ca-2c66f5aac9f1",
+        "init_point": "https:\/\/www.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-505506b9-b52f-482e-87ca-2c66f5aac9f1",
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-505506b9-b52f-482e-87ca-2c66f5aac9f1",
+        "created_at": "2025-10-26 04:10:35"
+    },
+    {
+        "id": "pref_68fd917c65e75",
+        "dentista_id": "68fd8441beece",
+        "plano": "anual",
+        "valor": 599,
+        "mercadopago_preference_id": "1254617540-3d2ba44d-082a-4cf4-80ab-d11778d54946",
+        "init_point": "https:\/\/www.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-3d2ba44d-082a-4cf4-80ab-d11778d54946",
+        "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.br\/checkout\/v1\/redirect?pref_id=1254617540-3d2ba44d-082a-4cf4-80ab-d11778d54946",
+        "created_at": "2025-10-26 04:11:56"
+    }
+]

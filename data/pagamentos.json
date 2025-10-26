@@ -1,0 +1,98 @@
+[
+    {
+        "id": "pay_68fd6d9687a13",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "semestral",
+        "valor": 0.01,
+        "forma_pagamento": "pix",
+        "mercadopago_payment_id": 130735794297,
+        "status": "approved",
+        "status_detail": "accredited",
+        "created_at": "2025-10-26 02:38:46",
+        "updated_at": "2025-10-26 02:39:37"
+    },
+    {
+        "id": "pay_68fd6ddab4c4d",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "anual",
+        "valor": 599,
+        "forma_pagamento": "pix",
+        "mercadopago_payment_id": 130735145033,
+        "status": "pending",
+        "status_detail": "pending_waiting_transfer",
+        "created_at": "2025-10-26 02:39:54",
+        "updated_at": "2025-10-26 02:40:01"
+    },
+    {
+        "id": "pay_68fd6e8383fbf",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "semestral",
+        "valor": 0.01,
+        "forma_pagamento": "pix",
+        "mercadopago_payment_id": 130736082443,
+        "status": "approved",
+        "status_detail": "accredited",
+        "created_at": "2025-10-26 02:42:43",
+        "updated_at": "2025-10-26 02:43:04"
+    },
+    {
+        "id": "pay_68fd6f72a01ea",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "anual",
+        "valor": 599,
+        "forma_pagamento": "pix",
+        "mercadopago_payment_id": 130736082885,
+        "status": "pending",
+        "status_detail": "pending_waiting_transfer",
+        "created_at": "2025-10-26 02:46:42",
+        "updated_at": "2025-10-26 02:46:53"
+    },
+    {
+        "id": "pay_68fd71e54f91f",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "anual",
+        "valor": 599,
+        "forma_pagamento": "pix",
+        "mercadopago_payment_id": 131325122436,
+        "status": "pending",
+        "status_detail": "pending_waiting_transfer",
+        "created_at": "2025-10-26 02:57:09",
+        "updated_at": "2025-10-26 02:57:09"
+    },
+    {
+        "id": "pay_68fd74801fba7",
+        "dentista_id": "68f8ae7e7fb32",
+        "plano": "semestral",
+        "valor": 0.01,
+        "forma_pagamento": "pix",
+        "mercadopago_payment_id": 131324989622,
+        "status": "pending",
+        "status_detail": "pending_waiting_transfer",
+        "created_at": "2025-10-26 02:08:16",
+        "updated_at": "2025-10-26 02:08:21"
+    },
+    {
+        "id": "pay_68fd905b8f614",
+        "dentista_id": "68fd8441beece",
+        "plano": "mensal",
+        "valor": 0.01,
+        "forma_pagamento": "pix",
+        "mercadopago_payment_id": 131333381440,
+        "status": "approved",
+        "status_detail": "accredited",
+        "created_at": "2025-10-26 04:07:07",
+        "updated_at": "2025-10-26 04:07:18"
+    },
+    {
+        "id": "pay_68fd9ad7b91d8",
+        "dentista_id": "68fd8441beece",
+        "plano": "semestral",
+        "valor": 399,
+        "forma_pagamento": "pix",
+        "mercadopago_payment_id": 130748083353,
+        "status": "pending",
+        "status_detail": "pending_waiting_transfer",
+        "created_at": "2025-10-26 04:51:51",
+        "updated_at": "2025-10-26 04:51:51"
+    }
+]

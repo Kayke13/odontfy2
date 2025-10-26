@@ -1,0 +1,165 @@
+[
+    {
+        "nome": "OdontoFy",
+        "email": "sac.vitormarques@gmail.com",
+        "username": "vitormarques",
+        "password": "$2y$10$FLfaBkZFYR1\/oJ7QwdDP3OFsaihMCDWw94mYTOH.7JnrdmsbPxX\/e",
+        "clinica": "Cl\u00ednica OdontoFy",
+        "telefone": "44984390505",
+        "endereco": "Rua Dom Pedro II, Cubat\u00e3o - SP",
+        "especialidades": "Cl\u00ednica Geral",
+        "horarios": {
+            "segunda": {
+                "ativo": true,
+                "inicio": "08:00",
+                "fim": "18:00"
+            },
+            "terca": {
+                "ativo": true,
+                "inicio": "08:00",
+                "fim": "18:00"
+            },
+            "quarta": {
+                "ativo": true,
+                "inicio": "08:00",
+                "fim": "18:00"
+            },
+            "quinta": {
+                "ativo": true,
+                "inicio": "08:00",
+                "fim": "18:00"
+            },
+            "sexta": {
+                "ativo": true,
+                "inicio": "08:00",
+                "fim": "18:00"
+            },
+            "sabado": {
+                "ativo": false,
+                "inicio": "08:00",
+                "fim": "12:00"
+            },
+            "domingo": {
+                "ativo": false,
+                "inicio": "08:00",
+                "fim": "12:00"
+            }
+        },
+        "servicos": [
+            {
+                "nome": "Consulta",
+                "duracao": 30,
+                "preco": 0,
+                "ativo": true
+            },
+            {
+                "nome": "Limpeza",
+                "duracao": 60,
+                "preco": 0,
+                "ativo": true
+            },
+            {
+                "nome": "Restaura\u00e7\u00e3o",
+                "duracao": 60,
+                "preco": 0,
+                "ativo": true
+            }
+        ],
+        "teste_inicio": null,
+        "teste_fim": "2025-11-02",
+        "assinatura_ativa": false,
+        "plano": "teste",
+        "id": "68f8ae7e7fb32",
+        "created_at": "2025-10-22 12:14:22",
+        "updated_at": "2025-10-26 02:59:16",
+        "foto": "68f98fc871820_1761185736.png",
+        "especialidade": "",
+        "bio": "",
+        "plano_fim": null,
+        "status": "ativo"
+    },
+    {
+        "nome": "Matheus Santos",
+        "email": "belinatto@gmail.com",
+        "username": "belinnato",
+        "password": "$2y$10$zeDiq8VGnnhF2lfAVN0VvugU7R50r4aqNWSwB7GSlByh5ZMQSCqem",
+        "clinica": "Cl\u00ednica Belinatto",
+        "telefone": "(13) 98864-9274",
+        "cro": null,
+        "especialidade": "clinico_geral",
+        "endereco": "Rua 1, Santos - SP",
+        "cidade": "Santos",
+        "estado": "SP",
+        "cep": "11520-040",
+        "foto": "68fd8441b3b97_1761444929.png",
+        "plano": "mensal",
+        "assinatura_ativa": true,
+        "teste_inicio": null,
+        "teste_fim": null,
+        "created_at": "2025-10-26 03:15:29",
+        "updated_at": "2025-10-26 08:17:09",
+        "horarios": {
+            "segunda": {
+                "ativo": true,
+                "inicio": "08:00",
+                "fim": "18:00"
+            },
+            "terca": {
+                "ativo": true,
+                "inicio": "08:00",
+                "fim": "18:00"
+            },
+            "quarta": {
+                "ativo": true,
+                "inicio": "08:00",
+                "fim": "18:00"
+            },
+            "quinta": {
+                "ativo": true,
+                "inicio": "08:00",
+                "fim": "18:00"
+            },
+            "sexta": {
+                "ativo": true,
+                "inicio": "09:00",
+                "fim": "17:00"
+            },
+            "sabado": {
+                "ativo": true,
+                "inicio": "08:00",
+                "fim": "12:00"
+            },
+            "domingo": {
+                "ativo": false,
+                "inicio": "08:00",
+                "fim": "12:00"
+            }
+        },
+        "servicos": [
+            {
+                "nome": "Limpeza",
+                "duracao": 30,
+                "preco": 120,
+                "descricao": "",
+                "dentistas": [
+                    "principal",
+                    "68fdb80232e47"
+                ],
+                "ativo": true
+            },
+            {
+                "nome": "Consulta",
+                "duracao": 30,
+                "preco": 0,
+                "descricao": "",
+                "dentistas": [
+                    "68fd9d0ca3146"
+                ],
+                "ativo": true
+            }
+        ],
+        "id": "68fd8441beece",
+        "plano_fim": "2025-11-25",
+        "bio": ""
+    }
+]

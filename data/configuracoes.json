@@ -1,0 +1,77 @@
+{
+    "planos": {
+        "teste": {
+            "nome": "Per\u00edodo de Teste",
+            "preco": 0,
+            "duracao_dias": 7,
+            "recursos": [
+                "Agendamentos ilimitados",
+                "At\u00e9 5 servi\u00e7os",
+                "Suporte b\u00e1sico"
+            ],
+            "descricao": ""
+        },
+        "mensal": {
+            "nome": "Plano Mensal",
+            "preco": 59.9,
+            "duracao_dias": 30,
+            "recursos": [
+                "Agendamentos ilimitados",
+                "Gest\u00e3o de clientes",
+                "Relat\u00f3rios b\u00e1sicos",
+                "Suporte por email"
+            ],
+            "descricao": "Acesso completo por 30 dias"
+        },
+        "semestral": {
+            "nome": "Plano Semestral",
+            "preco": 399,
+            "duracao_dias": 180,
+            "recursos": [
+                "Agendamentos ilimitados",
+                "Gest\u00e3o de clientes",
+                "Relat\u00f3rios intermedi\u00e1rios",
+                "Suporte por email",
+                "Backup autom\u00e1tico"
+            ],
+            "descricao": "Acesso completo por 6 meses"
+        },
+        "anual": {
+            "nome": "Plano Anual",
+            "preco": 599,
+            "duracao_dias": 365,
+            "recursos": [
+                "Agendamentos ilimitados",
+                "Gest\u00e3o de clientes",
+                "Relat\u00f3rios avan\u00e7ados",
+                "Suporte priorit\u00e1rio",
+                "Backup autom\u00e1tico",
+                "API de integra\u00e7\u00e3o"
+            ],
+            "descricao": "Acesso completo por 12 meses"
+        }
+    },
+    "sistema": {
+        "nome": "Odontfy",
+        "versao": "1.0.2",
+        "manutencao": true,
+        "manutencao_mensagem": "Sistema em manuten\u00e7\u00e3o. Voltaremos em breve.",
+        "email_contato": "contato@odontfy.com",
+        "telefone_contato": "(11) 99999-9999",
+        "endereco": "Rua Dom Pedro II, Cubat\u00e3o - SP",
+        "horario_funcionamento": "Segunda a Sexta: 8h \u00e0s 18h"
+    },
+    "notificacoes": {
+        "email_agendamento": true,
+        "email_confirmacao": true,
+        "email_lembrete": true,
+        "email_cancelamento": true,
+        "sms_agendamento": false,
+        "sms_lembrete": false
+    },
+    "backup": {
+        "automatico": true,
+        "frequencia": "diario",
+        "manter_backups": 7
+    }
+}

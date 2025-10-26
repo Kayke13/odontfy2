@@ -1,0 +1,7 @@
+RewriteEngine On
+
+# Redirecionar para página pública se não for um arquivo/diretório existente
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/(index\.php|login\.php|register\.php|dashboard\.php|agendamentos\.php|configuracoes\.php|servicos\.php|logout\.php|agendar\.php|confirmar\.php)$
+RewriteRule ^([^/]+)/?$ agendar.php?username=$1 [L,QSA]

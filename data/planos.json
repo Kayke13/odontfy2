@@ -1,0 +1,35 @@
+{
+    "teste": {
+        "nome": "Per\u00edodo de Teste",
+        "preco": 0,
+        "duracao_dias": 7,
+        "recursos": [
+            "Agendamentos ilimitados",
+            "At\u00e9 5 servi\u00e7os",
+            "Suporte b\u00e1sico"
+        ]
+    },
+    "mensal": {
+        "nome": "Plano Mensal",
+        "preco": 59.9,
+        "duracao_dias": 30,
+        "recursos": [
+            "Agendamentos ilimitados",
+            "Servi\u00e7os ilimitados",
+            "Suporte priorit\u00e1rio",
+            "Relat\u00f3rios avan\u00e7ados"
+        ]
+    },
+    "anual": {
+        "nome": "Plano Anual",
+        "preco": 970,
+        "duracao_dias": 365,
+        "recursos": [
+            "Agendamentos ilimitados",
+            "Servi\u00e7os ilimitados",
+            "Suporte priorit\u00e1rio",
+            "Relat\u00f3rios avan\u00e7ados",
+            "2 meses gr\u00e1tis"
+        ]
+    }
+}

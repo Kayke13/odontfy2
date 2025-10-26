@@ -1,0 +1,22 @@
+[
+    {
+        "id": "68fac96d2e9ea",
+        "dentista_id": "68f8ae7e7fb32",
+        "tipo": "entrada",
+        "categoria": "consulta",
+        "descricao": "Limpeza",
+        "valor": 100,
+        "data": "2025-10-24",
+        "created_at": "2025-10-24 02:33:49"
+    },
+    {
+        "id": "68faf40f32a10",
+        "dentista_id": "68faf2f56e20f",
+        "tipo": "entrada",
+        "categoria": "consulta",
+        "descricao": "Limpeza",
+        "valor": 100,
+        "data": "2025-10-24",
+        "created_at": "2025-10-24 05:35:43"
+    }
+]

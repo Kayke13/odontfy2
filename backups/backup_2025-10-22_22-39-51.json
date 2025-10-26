@@ -1,0 +1,187 @@
+{
+    "data": "2025-10-22 22:39:51",
+    "agendamentos": [
+        {
+            "dentista_id": "68f8ae7e7fb32",
+            "paciente_nome": "Vitor Marques",
+            "paciente_email": "sac.vitormarques@gmail.com",
+            "paciente_telefone": "13988649274",
+            "servico": "Consulta",
+            "data": " ",
+            "observacoes": "",
+            "status": "confirmado",
+            "created_at": "2025-10-22 19:00:43",
+            "id": "68f90dbb8d9cf",
+            "updated_at": "2025-10-22 19:01:06"
+        },
+        {
+            "dentista_id": "68f8ae7e7fb32",
+            "paciente_nome": "Kayke Lira",
+            "paciente_email": "kayke@gmail.com",
+            "paciente_telefone": "8892165907",
+            "servico": "Limpeza",
+            "data": "2025-10-23 08:30",
+            "observacoes": "",
+            "status": "pendente",
+            "created_at": "2025-10-22 19:15:17",
+            "id": "68f91125edd80"
+        }
+    ],
+    "dentistas": [
+        {
+            "nome": "Matheus",
+            "email": "sac.vitormarques@gmail.com",
+            "username": "vitormarques",
+            "password": "$2y$10$FLfaBkZFYR1\/oJ7QwdDP3OFsaihMCDWw94mYTOH.7JnrdmsbPxX\/e",
+            "clinica": "Dentista Matheus",
+            "telefone": "44984390505",
+            "endereco": "Rua 1",
+            "especialidades": "Cl\u00ednica Geral",
+            "horarios": {
+                "segunda": {
+                    "ativo": true,
+                    "inicio": "08:00",
+                    "fim": "18:00"
+                },
+                "terca": {
+                    "ativo": true,
+                    "inicio": "08:00",
+                    "fim": "18:00"
+                },
+                "quarta": {
+                    "ativo": true,
+                    "inicio": "08:00",
+                    "fim": "18:00"
+                },
+                "quinta": {
+                    "ativo": true,
+                    "inicio": "08:00",
+                    "fim": "18:00"
+                },
+                "sexta": {
+                    "ativo": true,
+                    "inicio": "08:00",
+                    "fim": "18:00"
+                },
+                "sabado": {
+                    "ativo": false,
+                    "inicio": "08:00",
+                    "fim": "12:00"
+                },
+                "domingo": {
+                    "ativo": false,
+                    "inicio": "08:00",
+                    "fim": "12:00"
+                }
+            },
+            "servicos": [
+                {
+                    "nome": "Consulta",
+                    "duracao": 30,
+                    "preco": 0,
+                    "ativo": true
+                },
+                {
+                    "nome": "Limpeza",
+                    "duracao": 60,
+                    "preco": 0,
+                    "ativo": true
+                },
+                {
+                    "nome": "Restaura\u00e7\u00e3o",
+                    "duracao": 60,
+                    "preco": 0,
+                    "ativo": true
+                }
+            ],
+            "teste_inicio": null,
+            "teste_fim": null,
+            "assinatura_ativa": true,
+            "plano": "mensal",
+            "id": "68f8ae7e7fb32",
+            "created_at": "2025-10-22 12:14:22",
+            "updated_at": "2025-10-22 22:38:09",
+            "foto": "68f910a403146_1761153188.png",
+            "especialidade": "",
+            "bio": "",
+            "plano_fim": "2025-11-21"
+        }
+    ],
+    "configuracoes": {
+        "sistema": {
+            "nome": "Odontfy",
+            "versao": "1.0.2",
+            "manutencao": false,
+            "manutencao_mensagem": "Sistema em manuten\u00e7\u00e3o. Voltaremos em breve.",
+            "email_contato": "contato@odontfy.com",
+            "telefone_contato": "(11) 99999-9999",
+            "endereco": "Rua Dom Pedro II, Cubat\u00e3o - SP",
+            "horario_funcionamento": "Segunda a Sexta: 8h \u00e0s 18h"
+        },
+        "planos": {
+            "teste": {
+                "nome": "Per\u00edodo de Teste",
+                "preco": 0,
+                "duracao_dias": 7,
+                "recursos": [
+                    "Agendamentos ilimitados",
+                    "At\u00e9 5 servi\u00e7os",
+                    "Suporte b\u00e1sico"
+                ],
+                "descricao": ""
+            },
+            "mensal": {
+                "nome": "Plano Mensal",
+                "preco": 59.9,
+                "duracao_dias": 30,
+                "recursos": [
+                    "Agendamentos ilimitados",
+                    "Gest\u00e3o de clientes",
+                    "Relat\u00f3rios b\u00e1sicos",
+                    "Suporte por email"
+                ],
+                "descricao": "Acesso completo por 30 dias - ATUALIZADO"
+            },
+            "semestral": {
+                "nome": "Plano Semestral",
+                "preco": 399.9,
+                "duracao_dias": 180,
+                "recursos": [
+                    "Agendamentos ilimitados",
+                    "Gest\u00e3o de clientes",
+                    "Relat\u00f3rios intermedi\u00e1rios",
+                    "Suporte por email",
+                    "Backup autom\u00e1tico"
+                ],
+                "descricao": "Acesso completo por 6 meses - ATUALIZADO"
+            },
+            "anual": {
+                "nome": "Plano Anual",
+                "preco": 599,
+                "duracao_dias": 365,
+                "recursos": [
+                    "Agendamentos ilimitados",
+                    "Gest\u00e3o de clientes",
+                    "Relat\u00f3rios avan\u00e7ados",
+                    "Suporte priorit\u00e1rio",
+                    "Backup autom\u00e1tico",
+                    "API de integra\u00e7\u00e3o"
+                ],
+                "descricao": "Acesso completo por 12 meses - ATUALIZADO"
+            }
+        },
+        "notificacoes": {
+            "email_agendamento": true,
+            "email_confirmacao": true,
+            "email_lembrete": true,
+            "email_cancelamento": true,
+            "sms_agendamento": false,
+            "sms_lembrete": false
+        },
+        "backup": {
+            "automatico": true,
+            "frequencia": "diario",
+            "manter_backups": 7
+        }
+    }
+}
